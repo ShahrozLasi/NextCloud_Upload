@@ -7,8 +7,8 @@ USERNAME = "Your User Name"
 PASSWORD = "Your Password"
 
 # Define local and remote prefixes
-local_prefix = r"F:/JIMM2/MWF_invivo/DZNE_Data"
-remote_prefix = r"/Shared with me/PSOJIMM/results"
+local_prefix = r"DirectoryToFindTheFile"
+remote_prefix = r"DirectoryToUploadTheFile"
 
 # Create a session for HTTP requests
 session = requests.Session()
