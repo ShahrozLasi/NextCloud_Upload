@@ -2,7 +2,7 @@ import os, sys, time, glob, requests
 import urllib.parse
 
 # Setup for Nextcloud WebDAV URL, credentials, and session
-NEXTCLOUD_URL = "https://nc.ufz.de/remote.php/dav/files/shahjaha"
+NEXTCLOUD_URL = "https://your_company_name/remote.php/dav/files/your_name"
 USERNAME = "Your User Name"
 PASSWORD = "Your Password"
 
